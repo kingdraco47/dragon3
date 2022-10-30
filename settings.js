@@ -54,24 +54,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94755982430'] //ur owner number
+global.ownername = "𝙼𝚛.𝕯𝖗𝖆𝖈𝖔" //ur owner name
+global.ytname = "whatsapp: ❖ 𝐀𝐝𝐦𝐢𝐧 𝐁𝐨𝐚𝐫𝐝 ❖" //ur yt chanel name
+global.socialm = "INSTAGRAM: 𝖂𝖍𝖎𝖙𝖊 𝕯𝖗𝖆𝖌𝖔𝖓" //ur github or insta name
+global.location = "Srilanka, Kaluthara, Bulathsinhala" //ur location
 
 //bot bomdy
-global.owner = ['94714188730'] //ur number 
-global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
+global.owner = ['94755982430'] //ur number 
+global.ownertag = '9475982430' //ur tag number
+global.botname = '𝖂𝖍𝖎𝖙𝖊 𝕯𝖗𝖆𝖌𝖔𝖓' //ur bot name
+global.linkz = "https://chat.whatsapp.com/GTWHDwrhm4B5DF8kBgTMfl" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/whit_dragon" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
-global.menumoji ="💖"
+global.reactmoji = "📃" //ur menu react emoji
+global.themeemoji = "🐉" //ur theme emoji
+global.packname = "♔ ᵀᴴᴱ 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ♔" //ur sticker watermark packname
+global.author = "𝙼𝚛.𝕯𝖗𝖆𝖈𝖔" //ur sticker watermark author
+global.menumoji ="❖"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
 //Bot theme media
